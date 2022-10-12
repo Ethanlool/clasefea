@@ -38,3 +38,8 @@ a:hover{
 
 
 }
+.pene{
+    display: grid;
+    grid-template-rows:auto(2,2fr);
+    gap:10px;
+}
